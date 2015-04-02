@@ -1,8 +1,8 @@
 # mc.uhuc.de v3
 
-Homepage der uhuC Miners on mc.uhuc.de derivated out of the Startbootstrap template [Grayscale](https://github.com/IronSummitMedia/startbootstrap-grayscale).
+Das hier ist das Entwicklungsrepo der Webseite der uhuC Miners, basierend auf dem Template [Grayscale](https://github.com/IronSummitMedia/startbootstrap-grayscale) von Startbootstrap.
 
-## Redirects
+## Umleitungen auf dem Webserver
 
 		"^/nether" => "/img/grid.png"
 		"^/rules$" => "/rules.html"
@@ -16,11 +16,11 @@ Homepage der uhuC Miners on mc.uhuc.de derivated out of the Startbootstrap templ
 		"^/briefing" => "http://uhuc.de/Thread-Briefing"
 
 
-## Bugs and Issues
+## Bugs und Issues
 
-Have a bug or an issue? Open a [new issue](https://github.com/uhuc-de/mc-homepage3/issues/) here on GitHub.
+Fehler gefunden oder Änderungen gewünscht? Eröffne ein [neues Issue](https://github.com/uhuc-de/mc-homepage3/issues/) hier auf Github.
 
-## License
+## Lizenz
 
-Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
+Lizenziert unter der GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 
